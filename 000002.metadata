@@ -1,0 +1,36 @@
+LHD	DataTang-v1.2
+DBN
+SES	category
+CMT	*** Speech Label Information ***
+FIP	data/category/000002.wav
+CCD	personal video
+REP
+RED
+RET
+CMT	*** Speech Data Coding ***
+SAM	16000
+SNB	2
+SBF	lohi
+SSB	16
+QNT	wav
+NCH	1
+CMT	*** Speaker Information ***
+SCD	O1
+SEX	O1_Female
+AGE
+ACC
+ACT
+BIR
+CMT	*** Recording Conditions ***
+SNQ
+MIP
+MIT
+SCC
+CMT	*** Label File Body ***
+LBD	000002.txt
+LBR	522.031
+LBO	426.9459916870019
+CMT	*** Customized Label Body ***
+SRA
+EMO
+ORS
